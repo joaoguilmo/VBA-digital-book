@@ -11,7 +11,11 @@ The main idea is to create a machine defect annotation book, which can be opened
 how be work this application with vba
 -------------------------------------
 
-<img src="https://github.com/joaoguilmo/VBA-digital-book/blob/main/img/example.gif" width = "250">
+<p align = "center">
+
+<img src="https://github.com/joaoguilmo/VBA-digital-book/blob/main/img/example.gif" width = "400">
+
+</p>
 
 
 New features in development 
@@ -19,6 +23,7 @@ New features in development
 
 - \[x]  Add data button
 - \[x]  search button
+- \[x]  delete data button
 - \[ ]  edit button
 - \[ ]  Mensage null field
 - \[ ]  search with date
