@@ -1,5 +1,4 @@
 # VBA-digital-book
-VBA-digital-book
 
 This project is being built, and not finished.
 
@@ -9,3 +8,17 @@ The main idea is to create a machine defect annotation book, which can be opened
 ![github](https://github.com/joaoguilmo/VBA-digital-book/blob/main/img/fig1.PNG "Example Idea")
 
 
+how be work this application with vba
+-------------------------------------
+
+<img src="https://github.com/joaoguilmo/VBA-digital-book/blob/main/img/example.gif" width = "250">
+
+
+New features in development 
+--------------------------------------
+
+- \[x]  Add data button
+- \[x]  search button
+- \[ ]  edit button
+- \[ ]  Mensage null field
+- \[ ]  search with date
