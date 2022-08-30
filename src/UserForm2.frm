@@ -78,6 +78,12 @@ Private Sub ListBox1_Click()
 
 End Sub
 
+Private Sub ListBox1_DblClick(ByVal Cancel As MSForms.ReturnBoolean)
+
+UserForm3.Show
+
+End Sub
+
 Private Sub UserForm_Initialize()
 
 cabecalho

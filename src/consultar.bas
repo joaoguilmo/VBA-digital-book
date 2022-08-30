@@ -78,11 +78,6 @@ Wend
 
 recordset.Close
 
-
-    
-Debug.Print "Dados gravados"
-
-
     
 End Sub
 
